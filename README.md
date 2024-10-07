@@ -4,12 +4,12 @@
 </p>
 
 ## Introduction
+I will build a simulation honeynet attack on Microsoft Azure in this project using real-world data and virtual machines. 
 
- I am thrilled to present my latest project, which focuses on building a honeynet in Azure to simulate real-world cyber attacks. 
-This project showcases my skills in Azure security, incident response, and environment hardening
 
 ## Objective
-The main objective of this project was to [set up virtual machines that were intentionally vulnerable](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md) in the Azure infrastructure to attract and analyze cyber attacks. This helped me to better understand the tactics and techniques used by attackers, while also showcasing my ability to respond quickly and effectively to any identified issues.
+The objective is to create a controlled environment that mimics real-world cyberattack scenarios, allowing for observing and analyzing malicious activities. By utilizing Azure's powerful cloud infrastructure, I will deploy virtual machines configured to act as decoys, drawing potential attackers. This setup will provide valuable insights into attack patterns, techniques, and vulnerabilities, which can then be leveraged to enhance security defenses. The simulation will be designed to capture and analyze network traffic, malware behavior, and attack methods, with the ultimate goal of improving cybersecurity practices and defense. 
+
 
 ## Technologies, Regulations, and Azure Components Employed:
 
